@@ -7,6 +7,7 @@ public class TeamMemberAMs {
         System.out.println("ΑΜ Κωνσταντία Νικολέτα Στεργίου: t8230144");
         System.out.println("ΑΜ Ευαγγελία Νεκταρία Ανδρουλάκη: t8230007");
         System.out.println("ΑΜ Αγγελική Μεγάλου: t8230093");
+        System.out.println("ΑΜ Βαλέρια Σουμελίδη: t8230135");
 
     }
 }
